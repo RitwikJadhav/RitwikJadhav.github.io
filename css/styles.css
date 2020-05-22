@@ -10180,6 +10180,12 @@ img::-moz-selection {
   top: 60%;
 }
 
+#masthead .resume {
+  position: absolute;
+  left: 43%;
+  top: 60%;
+}
+
 #masthead .contact {
   position: absolute;
   left: 30%;
